@@ -2,13 +2,21 @@
 
 
 
-Sample role for learning how to use ansible
+Simple role for learning how to use ansible
 
 
 ## Prerequisite
 
-* [ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) to install ansible.
-* install sshpass.
+1. [ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) to install ansible.
+2. install sshpass.
+
+
+- mac
+```bash
+brew install http://git.io/sshpass.rb
+```
+
+- ubuntu
 
 ```bash
 sudo apt-get install sshpass
