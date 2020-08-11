@@ -1,0 +1,7 @@
+[development]
+139.180.159.146
+
+[development:vars]
+ansible_connection=ssh  
+ansible_user=root
+ansible_ssh_pass=password4gent
